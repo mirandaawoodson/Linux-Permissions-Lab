@@ -43,3 +43,15 @@ Created and organized files and directories
 Interpreted Linux permission strings (r, w, x)
 Modified file and directory permissions using chmod
 Added a user account using useradd
+
+
+
+
+
+
+
+
+
+
+
+
